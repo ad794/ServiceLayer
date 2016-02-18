@@ -1,0 +1,1 @@
+C:\BitBucket\ServiceLayer\ServiceLayer\obj\x64\Debug\ServiceLayer.sfprojResolveAssemblyReference.cache

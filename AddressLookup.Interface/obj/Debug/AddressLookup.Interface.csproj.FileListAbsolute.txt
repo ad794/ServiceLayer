@@ -1,0 +1,13 @@
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\AddressLookup.Interface.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\AddressLookup.Interface.pdb
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\System.Fabric.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\System.Fabric.xml
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\bin\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\obj\Debug\AddressLookup.Interface.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Interface\obj\Debug\AddressLookup.Interface.pdb

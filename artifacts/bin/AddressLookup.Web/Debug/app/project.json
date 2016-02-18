@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0-*",
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "AddressLookup.Web": "1.0.0"
+  },
+  "commands": {
+    "web": "Microsoft.AspNet.Server.Kestrel"
+  },
+  "frameworks": {
+    "dnx451": {}
+  },
+  "exclude": [
+    "wwwroot",
+    "node_modules",
+    "PackageRoot"
+  ],
+  "publishExclude": [
+    "**.user",
+    "**.vspscc",
+    "PackageRoot"
+  ],
+  "entryPoint": "AddressLookup.Web",
+  "loadable": false
+}

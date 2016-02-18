@@ -1,0 +1,1 @@
+C:\BitBucket\ServiceLayer\artifacts\obj\Web3\Debug\Web3.xprojResolveAssemblyReference.cache

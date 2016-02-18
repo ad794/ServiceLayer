@@ -1,0 +1,17 @@
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\AddressLookup.Stateful.exe.config
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\AddressLookup.Stateful.exe
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\AddressLookup.Stateful.pdb
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\System.Fabric.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\System.Fabric.xml
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\obj\x64\Debug\AddressLookup.Stateful.exe
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\obj\x64\Debug\AddressLookup.Stateful.pdb
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\obj\x64\Debug\AddressLookup.Stateful.csprojResolveAssemblyReference.cache
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\AddressLookup.Interface.dll
+C:\BitBucket\ServiceLayer\AddressLookup.Stateful\bin\x64\Debug\AddressLookup.Interface.pdb
